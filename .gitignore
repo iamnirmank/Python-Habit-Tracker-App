@@ -1,0 +1,4 @@
+__pyache__
+.pytest_cache
+venv
+habit_tracker.db
