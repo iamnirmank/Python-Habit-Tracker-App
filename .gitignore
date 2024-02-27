@@ -1,4 +1,4 @@
-__pyache__
+__pycache__
 .pytest_cache
 venv
 habit_tracker.db
